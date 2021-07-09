@@ -23,7 +23,6 @@ const CONFIG = {
     mess: 'tao biết mà 🥰. Yêu mày nhìuuu nhìuuuu 😘😘',
     messDesc: 'Chúc ngiuu ngủ ngonn nhó, và phải lunn vui vẻ đó nháaa.',
     btnAccept: 'Okiiiii yeww yewww <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
 
