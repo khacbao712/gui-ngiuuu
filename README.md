@@ -1,6 +1,5 @@
 # Tặng Ngiuuu
-## _Một điều nho nhỏ tỏ tình với crush_
-Mở file config.js sửa nội dung theo mẫu
+## _Một điều nho nhỏ nói với ngiuuu_
 ```
 const CONFIG = {
     introTitle: 'Mi Amor à!',
